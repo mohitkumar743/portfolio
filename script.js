@@ -1,5 +1,5 @@
 var typed = new Typed(".auto_name",{
-    strings : ["Mohit Kumar","Programmer","Designer","Full Stack Deveplor"],
+    strings : ["Mohit Kumar","Ethical Hacker","Programmer","Designer","Full Stack Deveplor"],
     typeSpeed : 105,
     backSpeed : 10,
     loop : true
